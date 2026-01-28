@@ -1,0 +1,4 @@
+devops lab
+machine learning lab
+mini project lab
+embedded lab
